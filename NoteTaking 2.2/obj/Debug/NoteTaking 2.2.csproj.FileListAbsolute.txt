@@ -1,0 +1,31 @@
+C:\Users\Kanishka Edirimanne\source\repos\NoteTaking 2.2\NoteTaking 2.2\bin\Debug\x64\pdfium.dll
+C:\Users\Kanishka Edirimanne\source\repos\NoteTaking 2.2\NoteTaking 2.2\bin\Debug\NoteTaking 2.2.exe.config
+C:\Users\Kanishka Edirimanne\source\repos\NoteTaking 2.2\NoteTaking 2.2\bin\Debug\NoteTaking 2.2.exe
+C:\Users\Kanishka Edirimanne\source\repos\NoteTaking 2.2\NoteTaking 2.2\bin\Debug\NoteTaking 2.2.pdb
+C:\Users\Kanishka Edirimanne\source\repos\NoteTaking 2.2\NoteTaking 2.2\bin\Debug\PdfiumViewer.dll
+C:\Users\Kanishka Edirimanne\source\repos\NoteTaking 2.2\NoteTaking 2.2\bin\Debug\PdfiumViewer.xml
+C:\Users\Kanishka Edirimanne\source\repos\NoteTaking 2.2\NoteTaking 2.2\bin\Debug\nl\PdfiumViewer.resources.dll
+C:\Users\Kanishka Edirimanne\source\repos\NoteTaking 2.2\NoteTaking 2.2\obj\Debug\NoteTaking_2._2.Form1.resources
+C:\Users\Kanishka Edirimanne\source\repos\NoteTaking 2.2\NoteTaking 2.2\obj\Debug\NoteTaking_2._2.Properties.Resources.resources
+C:\Users\Kanishka Edirimanne\source\repos\NoteTaking 2.2\NoteTaking 2.2\obj\Debug\NoteTaking 2.2.csproj.GenerateResource.cache
+C:\Users\Kanishka Edirimanne\source\repos\NoteTaking 2.2\NoteTaking 2.2\obj\Debug\NoteTaking 2.2.csproj.CoreCompileInputs.cache
+C:\Users\Kanishka Edirimanne\source\repos\NoteTaking 2.2\NoteTaking 2.2\obj\Debug\NoteTaking 2.2.csproj.CopyComplete
+C:\Users\Kanishka Edirimanne\source\repos\NoteTaking 2.2\NoteTaking 2.2\obj\Debug\NoteTaking 2.2.exe
+C:\Users\Kanishka Edirimanne\source\repos\NoteTaking 2.2\NoteTaking 2.2\obj\Debug\NoteTaking 2.2.pdb
+C:\Users\Kanishka Edirimanne\source\repos\NoteTaking 2.2\NoteTaking 2.2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Kanishka Edirimanne\source\repos\NoteTaking 2.2\NoteTaking 2.2\bin\Debug\itextsharp.dll
+C:\Users\Kanishka Edirimanne\source\repos\NoteTaking 2.2\NoteTaking 2.2\bin\Debug\itextsharp.xml
+C:\Users\Kanishka Edirimanne\source\repos\NoteTaking 2.2\NoteTaking 2.2\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Kanishka Edirimanne\source\repos\NoteTaking 2.2\NoteTaking 2.2\obj\Debug\NoteTaking_2._2.Forms.FormNew.resources
+C:\Users\Kanishka Edirimanne\source\repos\NoteTaking 2.2\NoteTaking 2.2\obj\Debug\NoteTaking_2._2.Forms.FormMeetings.resources
+C:\Users\Kanishka Edirimanne\source\repos\NoteTaking 2.2\NoteTaking 2.2\obj\Debug\NoteTaking_2._2.Forms.FormNotes.resources
+C:\Users\Kanishka Edirimanne\source\repos\NoteTaking 2.2\NoteTaking 2.2\obj\Debug\NoteTaking_2._2.Forms.FormRecent.resources
+C:\Users\Kanishka Edirimanne\source\repos\NoteTaking 2.2\NoteTaking 2.2\obj\Debug\NoteTaking_2._2.Forms.FormRemainders.resources
+C:\Users\Kanishka Edirimanne\source\repos\NoteTaking 2.2\NoteTaking 2.2\obj\Debug\NoteTaking_2._2.Forms.FormSettings.resources
+C:\Users\Kanishka Edirimanne\source\repos\NoteTaking 2.2\NoteTaking 2.2\obj\Debug\NoteTaking_2._2.Forms.FormTasks.resources
+C:\Users\Kanishka Edirimanne\source\repos\NoteTaking 2.2\NoteTaking 2.2\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Kanishka Edirimanne\source\repos\NoteTaking 2.2\NoteTaking 2.2\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Kanishka Edirimanne\source\repos\NoteTaking 2.2\NoteTaking 2.2\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Kanishka Edirimanne\source\repos\NoteTaking 2.2\NoteTaking 2.2\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Kanishka Edirimanne\source\repos\NoteTaking 2.2\NoteTaking 2.2\obj\Debug\NoteTaking 2.2.csproj.ResolveComReference.cache
+C:\Users\Kanishka Edirimanne\source\repos\NoteTaking 2.2\NoteTaking 2.2\obj\Debug\NoteTaking 2.2.csprojAssemblyReference.cache
